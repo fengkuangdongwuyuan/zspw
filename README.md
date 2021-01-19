@@ -23,24 +23,40 @@
 学校管理
 导入信息
 基础设置
+
 功能介绍
+
 1.任务创建,可控制线上填报日期，截至日期，录取查询日期，摇号派位结束可打印结果，动画摇号与信息展示
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170050_69d8a0ba_2244574.png "图片1.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170105_69f4a4e1_2244574.png "图片2.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170118_e8a1de51_2244574.png "图片3.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170129_183037ac_2244574.png "图片4.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170141_27ccd431_2244574.png "图片5.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170153_33d5bfdb_2244574.png "图片6.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170203_1741ff2e_2244574.png "图片7.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170050_69d8a0ba_2244574.png "图片1.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170105_69f4a4e1_2244574.png "图片2.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170118_e8a1de51_2244574.png "图片3.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170129_183037ac_2244574.png "图片4.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170141_27ccd431_2244574.png "图片5.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170153_33d5bfdb_2244574.png "图片6.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170203_1741ff2e_2244574.png "图片7.png")
 
 2.填报信息，查看报名信息，可导出导入
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170214_e8833cf6_2244574.png "图片9.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170214_e8833cf6_2244574.png "图片9.png")
+
 3.移动端首页
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170223_b556d732_2244574.png "图片10.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170223_b556d732_2244574.png "图片10.png")
+
 移动端信息填报
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170238_5daeb77f_2244574.png "图片11.png")
+
+(https://images.gitee.com/uploads/images/2021/0119/170238_5daeb77f_2244574.png "图片11.png")
+
 4.移动端用户中签结果查询
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0119/170248_3713505b_2244574.png "图片12.png")	
+
+(https://images.gitee.com/uploads/images/2021/0119/170248_3713505b_2244574.png "图片12.png")	
 
 购前须知
 1.项目内容：源码 + 数据库脚本（如需相关文档联系客服）。如有二开需求，定制开发需求可以随时联系我们。
